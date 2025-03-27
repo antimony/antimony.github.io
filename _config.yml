@@ -1,0 +1,19 @@
+title: Antimony
+description: Welcome to Antimony's website
+baseurl: ""
+url: "https://antimony.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git/ 
