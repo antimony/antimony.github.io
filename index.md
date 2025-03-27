@@ -1,6 +1,8 @@
 ---
 layout: cv
 title: Mikhail Surin
+lang: en
+permalink: /en/
 ---
 
 <div class="header">
