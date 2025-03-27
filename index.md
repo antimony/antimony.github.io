@@ -4,11 +4,18 @@ title: Mikhail Surin
 ---
 
 <div class="header">
+    <img src="https://t.me/i/userpic/320/mhlsu.jpg" alt="Mikhail Surin" class="profile-photo">
     <h1>Mikhail Surin</h1>
     <div class="subtitle">Software engineer. Architect. Engineering manager.</div>
     <div id="webaddress">
-        <a href="mailto:to@mhl.su">to@mhl.su</a>
-        <a href="https://t.me/mhlsu">@mhlsu</a>
+        <a href="mailto:to@mhl.su">
+            <img src="https://cdn-icons-png.flaticon.com/512/542/542638.png" alt="Email">
+            to@mhl.su
+        </a>
+        <a href="https://t.me/mhlsu">
+            <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="Telegram">
+            @mhlsu
+        </a>
     </div>
 </div>
 
