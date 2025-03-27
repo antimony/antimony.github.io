@@ -8,7 +8,7 @@ title: Mikhail Surin
     <div class="subtitle">Software engineer. Architect. Engineering manager.</div>
     <div id="webaddress">
         <a href="mailto:to@mhl.su">to@mhl.su</a>
-        <a href="https://mhl.su">+7(926)731-00-19</a>
+        <a href="https://t.me/mhlsu">@mhlsu</a>
     </div>
 </div>
 
