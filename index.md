@@ -6,7 +6,7 @@ title: Mikhail Surin
 <div class="header">
     <img src="https://t.me/i/userpic/320/mhlsu.jpg" alt="Mikhail Surin" class="profile-photo">
     <h1>Mikhail Surin</h1>
-    <div class="subtitle">Software engineer. Architect. Engineering manager.</div>
+    <div class="subtitle">CTO by day. Vibe coder by night.</div>
     <div id="webaddress">
         <a href="mailto:to@mhl.su">
             <img src="https://cdn-icons-png.flaticon.com/512/542/542638.png" alt="Email">
