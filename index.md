@@ -16,6 +16,10 @@ title: Mikhail Surin
             <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="Telegram">
             @mhlsu
         </a>
+        <a href="https://linkedin.com/in/msurin">
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+            msurin
+        </a>
     </div>
 </div>
 
